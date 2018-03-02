@@ -37,18 +37,50 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 * [Enlace a articulo web](https://elcomercio.pe/economia/dia-1/hoy-vivo-obsesionado-ratio-eficiencia-noticia-467822)
 ## BUSINESS CANVAS MODEL:
 ## STAKEHOLDERS:
-*CEO
-*Gerente de Riesgos
-*Gerente de Marketing
-*Gerente de RRHH
-*Gerente de IT
-*Front-end developer
-*Back-end developer
-*Regulador estatal SBS
-*Visual designer
-*Community Manager
-*Jefe de ventas
-*Jefe de innovación
-*Auditor
-## KICK OFF:
+*CEO  
+*Gerente de Riesgos  
+*Gerente de Marketing  
+*Gerente de RRHH  
+*Gerente de IT  
+*Front-end developer  
+*Back-end developer  
+*Regulador estatal SBS  
+*UX Designer  
+*Community Manager    
+*Jefe de ventas  
+*Jefe de innovación  
+*Auditor  
+## KICK OFF: 
+¿Qué les preguntarías a los presentes?
+**Cliente interno:**  
+**Jefe de ventas**
+ - ¿Qué producto es el que tiene mayor acogida?
+ - ¿Qué producto debemos priorizar?  
+ - ¿Cuáles son los reclamos más frecuentes?  
+ - ¿Cuál es el % de clientes nuevos el último año?
+ - ¿Cuál es el % de clientes perdidos el último año?
+ 
+**Regulador estatal SBS**
+ - ¿Cuáles son las limitaciones que tenemos?
+ 
+**Jefe de innovación**     
+ - ¿Qué tan dispuestos al cambio estamos?  
+ - ¿Qué producto ya tenemos digitalizado?   
+ - ¿Cuál ha sido la aceptación de los productos digitalizados?
+ - ¿% de clientes obtenidos a través de la digitalización?
+ - ¿Qué esperan del producto “Banca Digital para millenials”?
+
+**Cliente externo**
+ - ¿Qué producto tienes con el banco?
+ - ¿Qué producto usas más?
+ - ¿Qué producto te gustaría cambiar?
+ - ¿Cuán dispuesto estás a cambiar tus hábitos para utilizar productos netamente digitales?
+ - ¿Qué esperas de estos productos digitales?
+ - ¿Qué producto te parece más difícil de entender o usar?
+ - ¿Qué beneficios esperas con los nuevos productos digitales?
+ - ¿Cuál han sido sus problemas más frecuentes con nosotros?
+
 ## PLAN PROPUESTO DE INVESTIGACIÓN:
+
+![plan](https://user-images.githubusercontent.com/32301249/36926501-33041628-1e46-11e8-9f51-20d086db9a50.png)
+
