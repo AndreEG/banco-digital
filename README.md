@@ -7,14 +7,14 @@ Un banco es una empresa financiera que se encarga de captar recursos en la forma
 ### TRANSFORMACIÓN DIGITAL:
 La transformación digital son las nuevas oportunidades de estrategia de negocios que surgen gracias a la aparición de las tecnologías. Así mismo, este cambio no es sólo tecnológico sino que lleva consigo nuevas aptitudes tanto en las personas físicas así como en la reinvención de organizaciones que afectan al mercado global tradicional. No está enfocada a la tecnología utilizada sino en utilizarla para lograr los objetivos marcados. La transformación digital irá ligada con los objetivos y estrategias empresariales.
 _**Ventajas**_
-*Genera experiencias nuevas al cliente
-*Mejora la eficiencia operativa
-*Generar nuevas fuentes de ingresos
-*Capacidad de respuesta rápida ante los cambios en el mercado
-*Crear una ventaja competitiva para la organización.
-*Impulsa la cultura de la innovación dentro de la organización.
-*Mejora la colaboración interna.
-*Profundiza el análisis de datos (Big Data)
+* Genera experiencias nuevas al cliente
+* Mejora la eficiencia operativa
+* Generar nuevas fuentes de ingresos
+* Capacidad de respuesta rápida ante los cambios en el mercado
+* Crear una ventaja competitiva para la organización.
+* Impulsa la cultura de la innovación dentro de la organización.
+* Mejora la colaboración interna.
+* Profundiza el análisis de datos (Big Data)
 ### ÁREA DE INNOVACIÓN: 
  Es un espacio protegido dentro de una organización al que se pueden llevar ideas para su evaluación y su comercialización. Una zona de innovación ofrece un espacio institucional en el que las ideas pueden crecer, con los recursos y la protección de la empresa hasta demostrar su valor.
 ### MILLENIALS:
