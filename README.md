@@ -1,4 +1,4 @@
-#BANCO DIGITAL PARA MILLENIALS
+# BANCO DIGITAL PARA MILLENIALS
 ## RETO:
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simplese han propuesto crear un banco 100% digital dirigido para millenials. Es tu primera semana en la empresa y te han pedido que te encargues de esa investigación.
 ## DEFINICIONES BÁSICAS:
@@ -27,14 +27,14 @@ _**Fintech**_
 Empezando por la etimología, el vocablo Fintech se trata de un término compuesto procedente del inglés y que sale de unir la primera sílaba de las palabras Finance y Technology,  y que por lo tanto aglutina y define a todas aquellas empresas de servicios financieros que se sirven de las últimas novedades tecnológicas para brindar productos y servicios financieros innovadores.
 La palabra fintech, por lo tanto, define a aquellos servicios financieros que facilitan nuestra vida cotidiana gracias a la disrupción tecnológica, englobando prestaciones como la banca digital, los créditos online, el cambio de divisas a través de la red o los pagos online. En definitiva, a aquellos productos o servicios que ponen en común la tecnología y el dinero.
 ## INFORMACIÓN DE REFERENCIA:
-_**Transformación digital BCP:**_
-1. [Enlace a articulo web](http://digitalmentebcp.com/novedades/Digitalmente-la-apuesta-digital-del-BCP.html)
-2. [Enlace a articulo web](https://tecno.americaeconomia.com/articulos/gerente-central-de-transformacion-digital-y-banca-minorista-del-bcp-el-que-no-se-sube-la)
-3. [Enlace a articulo web](http://semanaeconomica.com/article/mercados-y-finanzas/banca-y-finanzas/240868-bcp-emprendimos-una-transformacion-digital-y-cultural-al-mismo-tiempo/)
-_**Transformación digital BBVA:**_
-4. [Enlace a articulo web](https://www.bbva.com/es/bbva-continental-primer-caso-transformacion-digital-empresa-peruana/)
-5. [Enlace a articulo web](https://www.bbva.com/es/informacion-corporativa/la-transformacion-bbva/)
-6. [Enlace a articulo web](https://elcomercio.pe/economia/dia-1/hoy-vivo-obsesionado-ratio-eficiencia-noticia-467822)
+1. _**Transformación digital BCP:**_
+* [Enlace a articulo web](http://digitalmentebcp.com/novedades/Digitalmente-la-apuesta-digital-del-BCP.html)
+* [Enlace a articulo web](https://tecno.americaeconomia.com/articulos/gerente-central-de-transformacion-digital-y-banca-minorista-del-bcp-el-que-no-se-sube-la)
+* [Enlace a articulo web](http://semanaeconomica.com/article/mercados-y-finanzas/banca-y-finanzas/240868-bcp-emprendimos-una-transformacion-digital-y-cultural-al-mismo-tiempo/)
+2. _**Transformación digital BBVA:**_
+* [Enlace a articulo web](https://www.bbva.com/es/bbva-continental-primer-caso-transformacion-digital-empresa-peruana/)
+* [Enlace a articulo web](https://www.bbva.com/es/informacion-corporativa/la-transformacion-bbva/)
+* [Enlace a articulo web](https://elcomercio.pe/economia/dia-1/hoy-vivo-obsesionado-ratio-eficiencia-noticia-467822)
 ## BUSINESS CANVAS MODEL:
 ## STAKEHOLDERS:
 *CEO
