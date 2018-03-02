@@ -36,6 +36,7 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 * [Enlace a articulo web](https://www.bbva.com/es/informacion-corporativa/la-transformacion-bbva/)
 * [Enlace a articulo web](https://elcomercio.pe/economia/dia-1/hoy-vivo-obsesionado-ratio-eficiencia-noticia-467822)
 ## BUSINESS CANVAS MODEL:
+![image](https://user-images.githubusercontent.com/32310867/36926565-8c9d440c-1e46-11e8-82b5-2d57bd0af8cf.png)
 ## STAKEHOLDERS:
 *CEO  
 *Gerente de Riesgos  
