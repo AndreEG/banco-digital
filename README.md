@@ -52,24 +52,28 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 *Jefe de innovación  
 *Auditor  
 ## KICK OFF: 
-¿Qué les preguntarías a los presentes?
+¿Qué les preguntarías a los presentes?    
 **Cliente interno:**  
 **Jefe de ventas**
- - ¿Qué producto es el que tiene mayor acogida?
+ - ¿Qué producto es el de mayor venta o aceptación en el público?
  - ¿Qué producto debemos priorizar?  
- - ¿Cuáles son los reclamos más frecuentes?  
+ - ¿Cuáles son los reclamos más frecuentes respecto a esos productos?  
  - ¿Cuál es el % de clientes nuevos el último año?
  - ¿Cuál es el % de clientes perdidos el último año?
  
 **Regulador estatal SBS**
- - ¿Cuáles son las limitaciones que tenemos?
+ - ¿Cuáles son las limitaciones que tenemos para hacer pagos, transferir dinero sin una cuenta, girar cheques, girar remesas hacia/desde el extranjero?
  
 **Jefe de innovación**     
- - ¿Qué tan dispuestos al cambio estamos?  
- - ¿Qué producto ya tenemos digitalizado?   
+ - ¿Qué tan dispuestos al cambio estamos?¿Hay barreras que tenemos que romper dentro de la coorporación? 
+ - ¿Qué producto ya tenemos totalmente/parcialmente digitalizado?   
  - ¿Cuál ha sido la aceptación de los productos digitalizados?
  - ¿% de clientes obtenidos a través de la digitalización?
- - ¿Qué esperan del producto “Banca Digital para millenials”?
+ - ¿Qué esperan del producto “Banca Digital para millenials”?    
+ 
+**Gerente de Marketing**
+ - ¿Se ha implementado alguna estrategia para que la aceptación de los productos digitales sea mejor en los últimos 06 meses?
+ - ¿Cuál es el plan a seguir para captar mayor número de clientes con la nueva banca digital?
 
 **Cliente externo**
  - ¿Qué producto tienes con el banco?
