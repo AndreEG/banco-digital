@@ -91,10 +91,13 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 
 
 ## UX RESEARCH    
-### Research Cualitativo:    
+### Research Cualitativo: 
+#### Entrevista a Usuarios   
   * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
   * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
   * Fotos
+#### Entrevista a Stakeholders
+  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
   
  
   
