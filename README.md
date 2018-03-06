@@ -22,19 +22,19 @@ Son personas que se adaptan fácil y rápidamente a los cambios, pues fueron tes
 ### NEOBANCOS Y FINTECH:
 _**Neobanco**_
 Los neobancos pueden ser de dos tipos: los que desarrollan su software sobre la infraestructura de un banco ya existente, que ya cuenta con su licencia correspondiente, para que éste custodie el dinero mientras ellos se centran en la experiencia de usuario. De este tipo encontramos tanto neobancos lanzados por bancos tradicionales como empresas completamente independientes que colaboran con entidades financieras.
-El segundo tipo son los neobancos que se crean desde cero, que construyen nuevas infraestructuras tecnológicas y que necesitan obtener licencias bancarias para operar (un trámite que suele ser complejo y costoso).
+El segundo tipo son los neobancos que se crean desde cero, que construyen nuevas infraestructuras tecnológicas y que necesitan obtener licencias bancarias para operar (un trámite que suele ser complejo y costoso).    
 _**Fintech**_
 Empezando por la etimología, el vocablo Fintech se trata de un término compuesto procedente del inglés y que sale de unir la primera sílaba de las palabras Finance y Technology,  y que por lo tanto aglutina y define a todas aquellas empresas de servicios financieros que se sirven de las últimas novedades tecnológicas para brindar productos y servicios financieros innovadores.
 La palabra fintech, por lo tanto, define a aquellos servicios financieros que facilitan nuestra vida cotidiana gracias a la disrupción tecnológica, englobando prestaciones como la banca digital, los créditos online, el cambio de divisas a través de la red o los pagos online. En definitiva, a aquellos productos o servicios que ponen en común la tecnología y el dinero.
 ## INFORMACIÓN DE REFERENCIA:
 1. _**Transformación digital BCP:**_
-* [Enlace a articulo web](http://digitalmentebcp.com/novedades/Digitalmente-la-apuesta-digital-del-BCP.html)
-* [Enlace a articulo web](https://tecno.americaeconomia.com/articulos/gerente-central-de-transformacion-digital-y-banca-minorista-del-bcp-el-que-no-se-sube-la)
-* [Enlace a articulo web](http://semanaeconomica.com/article/mercados-y-finanzas/banca-y-finanzas/240868-bcp-emprendimos-una-transformacion-digital-y-cultural-al-mismo-tiempo/)
+* [Apuesta Digital BCP](http://digitalmentebcp.com/novedades/Digitalmente-la-apuesta-digital-del-BCP.html)
+* [Banca minorista](https://tecno.americaeconomia.com/articulos/gerente-central-de-transformacion-digital-y-banca-minorista-del-bcp-el-que-no-se-sube-la)
+* [Transformación digitl](http://semanaeconomica.com/article/mercados-y-finanzas/banca-y-finanzas/240868-bcp-emprendimos-una-transformacion-digital-y-cultural-al-mismo-tiempo/)
 2. _**Transformación digital BBVA:**_
-* [Enlace a articulo web](https://www.bbva.com/es/bbva-continental-primer-caso-transformacion-digital-empresa-peruana/)
-* [Enlace a articulo web](https://www.bbva.com/es/informacion-corporativa/la-transformacion-bbva/)
-* [Enlace a articulo web](https://elcomercio.pe/economia/dia-1/hoy-vivo-obsesionado-ratio-eficiencia-noticia-467822)
+* [Transformación digital BBVA](https://www.bbva.com/es/bbva-continental-primer-caso-transformacion-digital-empresa-peruana/)
+* [Transformación BBVA](https://www.bbva.com/es/informacion-corporativa/la-transformacion-bbva/)
+* [Ratio Eficiencia](https://elcomercio.pe/economia/dia-1/hoy-vivo-obsesionado-ratio-eficiencia-noticia-467822)    
 ## BUSINESS CANVAS MODEL:
 ![image](https://user-images.githubusercontent.com/32310867/36926565-8c9d440c-1e46-11e8-82b5-2d57bd0af8cf.png)
 ## STAKEHOLDERS:
@@ -88,4 +88,14 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 ## PLAN PROPUESTO DE INVESTIGACIÓN:
 
 ![plan](https://user-images.githubusercontent.com/32301249/36926501-33041628-1e46-11e8-9f51-20d086db9a50.png)
+
+
+## UX RESEARCH    
+### Research Cualitativo:    
+  * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
+  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
+  * Fotos
+  
+ 
+  
 
