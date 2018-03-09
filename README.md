@@ -75,15 +75,32 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
  - ¿Se ha implementado alguna estrategia para que la aceptación de los productos digitales sea mejor en los últimos 06 meses?
  - ¿Cuál es el plan a seguir para captar mayor número de clientes con la nueva banca digital?
 
-**Cliente externo**
- - ¿Qué producto tienes con el banco?
- - ¿Qué producto usas más?
- - ¿Qué producto te gustaría cambiar?
- - ¿Cuán dispuesto estás a cambiar tus hábitos para utilizar productos netamente digitales?
- - ¿Qué esperas de estos productos digitales?
- - ¿Qué producto te parece más difícil de entender o usar?
- - ¿Qué beneficios esperas con los nuevos productos digitales?
- - ¿Cuál han sido sus problemas más frecuentes con nosotros?
+**Cliente externo**   
+*Cuentas bancarias:*    
+* ¿En qué banco tienes cuentas?   
+* ¿Qué banco prefieres? ¿Porque lo prefieres?(Si tiene más  de 1)   
+* ¿Por lo general para qué usas tus cuentas(ahorro, compras, practicidad, pagos)?   
+* Mencióname algún otro producto que tengas con el Banco u otros  
+*Tarjetas de crédito y débito*   
+* ¿Cuentas con alguna tarjeta o más de una? ¿Cuéntame qué piensas de ellas y de su importancia en tu día a día?   
+* ¿Conoces los beneficios que te ofrece?, ¿cuáles son?   
+* ¿Qué te motivó a contar con ella?   
+* ¿Cuál consideras que es su mayor beneficio en tu vida?  
+* ¿Qué producto te parece más difícil de entender o usar?    
+*Experiencias*   
+* ¿Cuándo fue la última vez que fuiste a una agencia bancaria? ¿para qué? ¿Nos cuentas un poco como lo hiciste? ¿Cómo te sentiste? ¿Qué dificultades tuviste?     
+* ¿Cuándo fue la última vez que usaste la app de tu banco? ¿Nos cuentas un poco cómo lo hiciste?  ¿Cómo te sentiste? ¿Qué dificultades tuviste?     
+* ¿Qué operaciones realizas en el banco y qué operaciones en la app?      
+* Si usas una aplicación del banco: ¿cómo te enteraste de la aplicación?  
+
+*Preferencias*
+* ¿Cuán dispuesto estás a cambiar tus hábitos para utilizar productos netamente digitales?   
+* ¿Qué esperas de estos productos digitales?    
+
+*Banca digital*    
+* ¿Cuál es tu opinión de la transformación digital que están pasando algunos bancos? ¿La consideras útil?
+* ¿Qué dificultades crees que enfrenta el Perú para la transformación digital?
+
 
 ## PLAN PROPUESTO DE INVESTIGACIÓN:
 
@@ -102,3 +119,4 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
  
   
 
+ 
