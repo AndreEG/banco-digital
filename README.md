@@ -1,7 +1,7 @@
-# BANCO DIGITAL PARA MILLENIALS
+# INFORMACIÓN DE NEGOCIO
 ## RETO:
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simplese han propuesto crear un banco 100% digital dirigido para millenials. Es tu primera semana en la empresa y te han pedido que te encargues de esa investigación.
-## DEFINICIONES BÁSICAS:
+## PREINVESTIGACIÓN:
 ### BANCO:
 Un banco es una empresa financiera que se encarga de captar recursos en la forma de depósitos, y prestar dinero, así como la prestación de servicios financieros. 
 ### TRANSFORMACIÓN DIGITAL:
@@ -26,7 +26,7 @@ El segundo tipo son los neobancos que se crean desde cero, que construyen nuevas
 _**Fintech**_
 Empezando por la etimología, el vocablo Fintech se trata de un término compuesto procedente del inglés y que sale de unir la primera sílaba de las palabras Finance y Technology,  y que por lo tanto aglutina y define a todas aquellas empresas de servicios financieros que se sirven de las últimas novedades tecnológicas para brindar productos y servicios financieros innovadores.
 La palabra fintech, por lo tanto, define a aquellos servicios financieros que facilitan nuestra vida cotidiana gracias a la disrupción tecnológica, englobando prestaciones como la banca digital, los créditos online, el cambio de divisas a través de la red o los pagos online. En definitiva, a aquellos productos o servicios que ponen en común la tecnología y el dinero.
-## INFORMACIÓN DE REFERENCIA:
+### INFORMACIÓN ADICIONAL:
 1. _**Transformación digital BCP:**_
 * [Apuesta Digital BCP](http://digitalmentebcp.com/novedades/Digitalmente-la-apuesta-digital-del-BCP.html)
 * [Banca minorista](https://tecno.americaeconomia.com/articulos/gerente-central-de-transformacion-digital-y-banca-minorista-del-bcp-el-que-no-se-sube-la)
@@ -75,48 +75,41 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
  - ¿Se ha implementado alguna estrategia para que la aceptación de los productos digitales sea mejor en los últimos 06 meses?
  - ¿Cuál es el plan a seguir para captar mayor número de clientes con la nueva banca digital?
 
-**Cliente externo**   
-*Cuentas bancarias:*    
-* ¿En qué banco tienes cuentas?   
-* ¿Qué banco prefieres? ¿Porque lo prefieres?(Si tiene más  de 1)   
-* ¿Por lo general para qué usas tus cuentas(ahorro, compras, practicidad, pagos)?   
-* Mencióname algún otro producto que tengas con el Banco u otros  
-*Tarjetas de crédito y débito*   
-* ¿Cuentas con alguna tarjeta o más de una? ¿Cuéntame qué piensas de ellas y de su importancia en tu día a día?   
-* ¿Conoces los beneficios que te ofrece?, ¿cuáles son?   
-* ¿Qué te motivó a contar con ella?   
-* ¿Cuál consideras que es su mayor beneficio en tu vida?  
-* ¿Qué producto te parece más difícil de entender o usar?    
-*Experiencias*   
-* ¿Cuándo fue la última vez que fuiste a una agencia bancaria? ¿para qué? ¿Nos cuentas un poco como lo hiciste? ¿Cómo te sentiste? ¿Qué dificultades tuviste?     
-* ¿Cuándo fue la última vez que usaste la app de tu banco? ¿Nos cuentas un poco cómo lo hiciste?  ¿Cómo te sentiste? ¿Qué dificultades tuviste?     
-* ¿Qué operaciones realizas en el banco y qué operaciones en la app?      
-* Si usas una aplicación del banco: ¿cómo te enteraste de la aplicación?  
-
-*Preferencias*
-* ¿Cuán dispuesto estás a cambiar tus hábitos para utilizar productos netamente digitales?   
-* ¿Qué esperas de estos productos digitales?    
-
-*Banca digital*    
-* ¿Cuál es tu opinión de la transformación digital que están pasando algunos bancos? ¿La consideras útil?
-* ¿Qué dificultades crees que enfrenta el Perú para la transformación digital?
-
-
 ## PLAN PROPUESTO DE INVESTIGACIÓN:
 
 ![plan](https://user-images.githubusercontent.com/32301249/36926501-33041628-1e46-11e8-9f51-20d086db9a50.png)
 
-
-## UX RESEARCH    
-### Research Cualitativo: 
+# PROCESO UX
+## INVESTIGACIÓN
+### ENTREVISTAS
 #### Entrevista a Usuarios   
   * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
   * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
   * Fotos
 #### Entrevista a Stakeholders
   * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
-  
- 
+### BENCHMARK
+
+## SÍNTESIS
+#### AFINITY MAP
+#### USER PERSONA
+#### PROBLEM STATEMENT
+#### HMW
+#### WHAT IF
+#### JOURNEY MAPS
+
+## IDEACIÓN
+#### FEATURE LIST
+#### PRIORIZACIÓN
+#### MVP
+#### STORY BOARD
+#### USER FLOW
+
+## PROTOTIPADO
+#### PAPER PROTOTYPE
+#### PROTOTIPO DE ALTA FIDELIDAD
+
+## TESTING 
   
 
  
