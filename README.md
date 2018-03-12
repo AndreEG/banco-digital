@@ -89,6 +89,7 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 #### Entrevista a Stakeholders
   * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
 ### BENCHMARK
+![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
 
 ## SÍNTESIS
 #### AFINITY MAP
