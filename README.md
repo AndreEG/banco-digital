@@ -93,7 +93,7 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 ### BENCHMARK
 ![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
 
-#### SÍNTESIS
+### SÍNTESIS Y DEFINICIÓN
 
 **USER PERSONA**
 ![user persona](assets/images/banco-01.png)
