@@ -79,7 +79,6 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 
 ![plan](https://user-images.githubusercontent.com/32301249/36926501-33041628-1e46-11e8-9f51-20d086db9a50.png)
 
-<<<<<<< HEAD
 # PROCESO UX
 ## INVESTIGACIÓN
 ### ENTREVISTAS
@@ -109,28 +108,22 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 * What if las personas nunca quisieran reclamar
 * What if hubiera alguien que les ayude con el pago de sus servicios
 #### JOURNEY MAPS
-=======
-## PROCESO UX
-### INVESTIGACIÓN
-#### ENTREVISTAS
-**Entrevista a Usuarios**  
-  * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
-  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)   
-  
-**Entrevista a Stakeholders**
-  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)    
-#### BENCHMARK
-![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
-
-#### SÍNTESIS
-**JOURNEY MAPS**   
->>>>>>> 07a50420a0df2f68a18863724d5c1fc0c3767e36
-
 
 ### IDEACIÓN
-**FEATURE LIST**    
+#### FEATURE LIST  
+* Dos opciones de registro para alguien con una cta bancaria y alguien que no la tiene
+* Una zona de seguridad donde se pueda bloquear tus tarjetas
+* Una zona de reclamos donde la respuesta sea rápida
+* Poder hacer consultas de saldos y movimientos
+* Un lugar donde se pueda enviar y recibir dinero
+* Un lugar donde pueda pagar todos los servicios
+* Un lugar donde pueda pagar mis tarjetas de Crédito
+* Un lugar donde se pueda pagar en establecimientos afiliados desde el celular tal como lo dice la propuesta de negocio
+* Una opción para no siempre escribir el número de tarjeta o cuenta
+#### PRIORIZACIÓN
+![priorizacion](assets/images/banco-02.png)
  ![Feautre list](https://user-images.githubusercontent.com/32301249/37291425-9bd23b88-25dc-11e8-979e-9759bd17ec7e.jpg)
-**MVP**      
+#### MVP     
 De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro producto será un "Aplicativo móvil" que contendrá:    
 * Registro de usuario.  
 * Creación de cuenta.   
@@ -140,7 +133,7 @@ De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro pro
 * Zona de Transferencias.  
 * Zona de Cuentas.   
 
-**USER FLOW**    
+#### USER FLOW    
 
 ### PROTOTIPADO  
 
