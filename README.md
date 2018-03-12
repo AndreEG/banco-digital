@@ -82,10 +82,10 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 # PROCESO UX
 ## INVESTIGACIÓN
 ### ENTREVISTAS
-#### Entrevista a Usuarios   
+#### Entrevista a Usuarios 
+![guia de entrevista](assets/images/otros-01.png)  
   * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
   * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
-  * Fotos
 #### Entrevista a Stakeholders
   * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
 ### BENCHMARK
@@ -94,9 +94,19 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 ## SÍNTESIS
 #### AFINITY MAP
 #### USER PERSONA
+![user persona](assets/images/banco-01.png)
 #### PROBLEM STATEMENT
+* Carlos necesita una manera de confiar en su banco para sentirse seguro y libre
+* Carlos necesita una manera rápida de hacer sus reclamos para no perder tiempo dentro del banco
+* Carlos necesita una manera de pagar todo tipo de servicios y préstamos en un solo lugar para no perder tiempo
 #### HMW
+* HMW hacer para que un banco se sienta seguro
+* HMW que las personas puedan hacer reclamos y se sientan satisfechos 
+* HMW que las personas paguen sus servicios sin perder tiempo
 #### WHAT IF
+* What if el banco digital siempre se sienta seguro
+* What if las personas nunca quisieran reclamar
+* What if hubiera alguien que les ayude con el pago de sus servicios
 #### JOURNEY MAPS
 
 ## IDEACIÓN
