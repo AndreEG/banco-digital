@@ -82,25 +82,49 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 ## PROCESO UX
 ### INVESTIGACIÓN
 #### ENTREVISTAS
-**Entrevista a Usuarios**  
+#### Entrevista a Usuarios 
+![guia de entrevista](assets/images/otros-01.png)  
   * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
-  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)   
-  
-**Entrevista a Stakeholders**
-  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)    
-  
-#### BENCHMARK
+  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
+#### Entrevista a Stakeholders
+  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
+### BENCHMARK
 ![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
 
 #### SÍNTESIS
 **JOURNEY MAPS**    
 ![Hacer Transferencia](https://user-images.githubusercontent.com/32301249/37292642-47e25df2-25df-11e8-9374-34be47101898.png)   
 ![Realizar reclamo](https://user-images.githubusercontent.com/32301249/37292645-4abc2594-25df-11e8-9194-8673b58634d2.png)
+**USER PERSONA**
+![user persona](assets/images/banco-01.png)
+**PROBLEM STATEMENT**
+* Carlos necesita una manera de confiar en su banco para sentirse seguro y libre
+* Carlos necesita una manera rápida de hacer sus reclamos para no perder tiempo dentro del banco
+* Carlos necesita una manera de pagar todo tipo de servicios y préstamos en un solo lugar para no perder tiempo
+**HMW**
+* HMW hacer para que un banco se sienta seguro
+* HMW que las personas puedan hacer reclamos y se sientan satisfechos 
+* HMW que las personas paguen sus servicios sin perder tiempo
+**WHAT IF**
+* What if el banco digital siempre se sienta seguro
+* What if las personas nunca quisieran reclamar
+* What if hubiera alguien que les ayude con el pago de sus servicios
 
 ### IDEACIÓN
-**FEATURE LIST**    
- ![Feautre list](https://user-images.githubusercontent.com/32301249/37291425-9bd23b88-25dc-11e8-979e-9759bd17ec7e.jpg)  
- 
+**FEATURE LIST**
+* Dos opciones de registro para alguien con una cta bancaria y alguien que no la tiene
+* Una zona de seguridad donde se pueda bloquear tus tarjetas
+* Una zona de reclamos donde la respuesta sea rápida
+* Poder hacer consultas de saldos y movimientos
+* Un lugar donde se pueda enviar y recibir dinero
+* Un lugar donde pueda pagar todos los servicios
+* Un lugar donde pueda pagar mis tarjetas de Crédito
+* Un lugar donde se pueda pagar en establecimientos afiliados desde el celular tal como lo dice la propuesta de negocio
+* Una opción para no siempre escribir el número de tarjeta o cuenta    
+
+**PRIORIZACION**
+![priorizacion](assets/images/banco-02.png)
+ ![Feautre list](https://user-images.githubusercontent.com/32301249/37291425-9bd23b88-25dc-11e8-979e-9759bd17ec7e.jpg)
 **MVP**      
 De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro producto será un "Aplicativo móvil" y dentro de su contenido tendrá lo siguiente:    
 * Registro de usuario.  
@@ -114,10 +138,17 @@ De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro pro
 
 ### PROTOTIPADO  
 
-**PAPER PROTOTYPE**                 
+**PAPER PROTOTYPE** 
+* 1er PAPER PROTOTYPE 
+![paper](assets/images/paperp1.png) 
+* 2do PAPER PROTOTYPE 
+![paper](assets/images/paperp2.png) 
+* 3er PAPER PROTOTYPE 
+![paper](assets/images/paperp3.png)          
 Enlace a [prototipos en papel](https://goo.gl/hWExq7)   
 
-**PROTOTIPO DE ALTA FIDELIDAD**             
+**PROTOTIPO DE ALTA FIDELIDAD** 
+            
 Enlace a [BankEva](https://marvelapp.com/c4i70ce)   
 
 ### TESTING 
