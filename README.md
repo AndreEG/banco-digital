@@ -92,18 +92,22 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 ![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
 
 #### SÍNTESIS
-**AFINITY MAP**    
-**USER PERSONA**    
-**PROBLEM STATEMENT**   
-**HMW**   
-**WHAT IF**    
 **JOURNEY MAPS**   
+
 
 ### IDEACIÓN
 **FEATURE LIST**    
-
-**PRIORIZACIÓN**   
+ ![Feautre list](https://user-images.githubusercontent.com/32301249/37291425-9bd23b88-25dc-11e8-979e-9759bd17ec7e.jpg)
 **MVP**      
+De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro producto será un "Aplicativo móvil" que contendrá:    
+* Registro de usuario.  
+* Creación de cuenta.   
+* Zona de reclamos.   
+* Zona de Favoritos.   
+* Zona de Pagos.  
+* Zona de Transferencias.  
+* Zona de Cuentas.   
+
 **USER FLOW**    
 
 ### PROTOTIPADO  
