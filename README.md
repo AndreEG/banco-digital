@@ -1,11 +1,11 @@
 # INFORMACIÓN DE NEGOCIO
 ## RETO:
-El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simplese han propuesto crear un banco 100% digital dirigido para millenials. Es tu primera semana en la empresa y te han pedido que te encargues de esa investigación.
-## PREINVESTIGACIÓN:
+El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simplese han propuesto crear un banco 100% digital dirigido para millenials. Es tu primera semana en la empresa y te han pedido que te encargues de esa investigación.   
+## PREINVESTIGACIÓN:    
 ### BANCO:
 Un banco es una empresa financiera que se encarga de captar recursos en la forma de depósitos, y prestar dinero, así como la prestación de servicios financieros. 
 ### TRANSFORMACIÓN DIGITAL:
-La transformación digital son las nuevas oportunidades de estrategia de negocios que surgen gracias a la aparición de las tecnologías. Así mismo, este cambio no es sólo tecnológico sino que lleva consigo nuevas aptitudes tanto en las personas físicas así como en la reinvención de organizaciones que afectan al mercado global tradicional. No está enfocada a la tecnología utilizada sino en utilizarla para lograr los objetivos marcados. La transformación digital irá ligada con los objetivos y estrategias empresariales.
+La transformación digital son las nuevas oportunidades de estrategia de negocios que surgen gracias a la aparición de las tecnologías. Así mismo, este cambio no es sólo tecnológico sino que lleva consigo nuevas aptitudes tanto en las personas físicas así como en la reinvención de organizaciones que afectan al mercado global tradicional. No está enfocada a la tecnología utilizada sino en utilizarla para lograr los objetivos marcados. La transformación digital irá ligada con los objetivos y estrategias empresariales.     
 _**Ventajas**_
 * Genera experiencias nuevas al cliente
 * Mejora la eficiencia operativa
@@ -79,38 +79,58 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 
 ![plan](https://user-images.githubusercontent.com/32301249/36926501-33041628-1e46-11e8-9f51-20d086db9a50.png)
 
-# PROCESO UX
-## INVESTIGACIÓN
-### ENTREVISTAS
-#### Entrevista a Usuarios   
+## PROCESO UX
+### INVESTIGACIÓN
+#### ENTREVISTAS
+**Entrevista a Usuarios**  
   * [Guía de Entrevistas](https://goo.gl/aT8WBz)    
-  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
-  * Fotos
-#### Entrevista a Stakeholders
-  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
-### BENCHMARK
+  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)   
+  
+**Entrevista a Stakeholders**
+  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)    
+#### BENCHMARK
 ![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
 
-## SÍNTESIS
-#### AFINITY MAP
-#### USER PERSONA
-#### PROBLEM STATEMENT
-#### HMW
-#### WHAT IF
-#### JOURNEY MAPS
+#### SÍNTESIS
+**AFINITY MAP**    
+**USER PERSONA**    
+**PROBLEM STATEMENT**   
+**HMW**   
+**WHAT IF**    
+**JOURNEY MAPS**   
 
-## IDEACIÓN
-#### FEATURE LIST
-#### PRIORIZACIÓN
-#### MVP
-#### STORY BOARD
-#### USER FLOW
+### IDEACIÓN
+**FEATURE LIST**    
 
-## PROTOTIPADO
-#### PAPER PROTOTYPE
-#### PROTOTIPO DE ALTA FIDELIDAD
+**PRIORIZACIÓN**   
+**MVP**      
+**USER FLOW**    
 
-## TESTING 
-  
+### PROTOTIPADO  
+
+**PAPER PROTOTYPE**                 
+Enlace a [prototipos en papel](https://goo.gl/hWExq7)   
+
+**PROTOTIPO DE ALTA FIDELIDAD**             
+Enlace a [BankEva](https://marvelapp.com/c4i70ce)   
+
+### TESTING 
+
+*Cinthia:*    
+ - Me gustaría que me envíe confirmación de envío.
+ - Me gusta el nombre.   
+ 
+*Franklin*    
+ - Pedirme tantas claves me confunde.   
+ - Me gustan los colores. 
+ 
+*Dyck*    
+ - Me gustaría que se vea primero mi saldo.
+ - Cuando agrego una cuenta no la puedo ver agregada.
+ - Me gustan los colores.
+ 
+*Ericka*    
+ - Me gusta el nombre.  
+ - Me confunde mucho el lado de favoritos.
 
  
