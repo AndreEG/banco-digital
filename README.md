@@ -1,6 +1,13 @@
-  
+# Ibank
+El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, se han propuesto crear un banco 100% digital dirigido para millenials. 
+
+![vista principal](assets/images/vista.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 ![titulo](assets/images/banco-03.png)   
-# INFORMACIÓN DE NEGOCIO
+## INFORMACIÓN DE NEGOCIO
 ## RETO:
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simplese han propuesto crear un banco 100% digital dirigido para millenials. Es tu primera semana en la empresa y te han pedido que te encargues de esa investigación.   
 ## PREINVESTIGACIÓN:    
