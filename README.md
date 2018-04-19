@@ -156,7 +156,7 @@ Enlace a [prototipos en papel](https://goo.gl/hWExq7)
 
 **PROTOTIPO DE ALTA FIDELIDAD** 
 
-![prototipo digital](assets/images/proto.png)  
+Enlace a [BankEva](https://marvelapp.com/c4i70ce)   
 
 ### TESTING 
 
@@ -178,5 +178,4 @@ Enlace a [prototipos en papel](https://goo.gl/hWExq7)
  - Me confunde mucho el lado de favoritos.
  
  #### MVP
- 
- Enlace a [iBank](https://marvelapp.com/158a19dg/screen/40927295)   
+ Enlace de [Producto Final](https://marvelapp.com/c4i70ce)
