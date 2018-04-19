@@ -93,7 +93,7 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 ### BENCHMARK
 ![benchmarking](https://user-images.githubusercontent.com/32301249/37289603-184ff074-25d8-11e8-8443-a960b8a17e97.png)
 
-#### SÍNTESIS
+### SÍNTESIS
 
 **USER PERSONA**
 ![user persona](assets/images/banco-01.png)
@@ -132,6 +132,7 @@ La palabra fintech, por lo tanto, define a aquellos servicios financieros que fa
 **PRIORIZACION**
 ![priorizacion](assets/images/banco-02.png)
  ![Feautre list](https://user-images.githubusercontent.com/32301249/37291425-9bd23b88-25dc-11e8-979e-9759bd17ec7e.jpg)
+
 **MVP**      
 De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro producto será un "Aplicativo móvil" y dentro de su contenido tendrá lo siguiente:    
 * Registro de usuario.  
@@ -155,7 +156,7 @@ Enlace a [prototipos en papel](https://goo.gl/hWExq7)
 
 **PROTOTIPO DE ALTA FIDELIDAD** 
 
-Enlace a [BankEva](https://marvelapp.com/c4i70ce)   
+![prototipo digital](assets/images/proto.png)  
 
 ### TESTING 
 
@@ -177,4 +178,5 @@ Enlace a [BankEva](https://marvelapp.com/c4i70ce)
  - Me confunde mucho el lado de favoritos.
  
  #### MVP
- Enlace de [Producto Final](https://marvelapp.com/c4i70ce)
+ 
+ Enlace a [iBank](https://marvelapp.com/158a19dg/screen/40927295)   
