@@ -1,7 +1,7 @@
 # Ibank
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, se han propuesto crear un banco 100% digital dirigido para millenials. 
 
-![vista principal](assets/images/vista.png)
+![image](https://user-images.githubusercontent.com/32310867/39018321-519513ba-43eb-11e8-80fd-92bae7f10c59.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
